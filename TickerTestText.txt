@@ -1,0 +1,4 @@
+Price: "328.55",Trade Time: "Oct 28,3:29PM EDT",File Write Time: 2014/10/28 15:30:18 Eastern Standard Time
+Price: "328.62",Trade Time: "Oct 28,3:29PM EDT",File Write Time: 2014/10/28 15:31:18 Eastern Standard Time
+Price: "328.99",Trade Time: "Oct 28,3:32PM EDT",File Write Time: 2014/10/28 15:32:08 Eastern Standard Time
+Price: "329.02",Trade Time: "Oct 28,3:32PM EDT",File Write Time: 2014/10/28 15:33:08 Eastern Standard Time
